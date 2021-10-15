@@ -1,0 +1,147 @@
+Mods: {
+	ElementalHearts: {
+		HeartEmptierUsed: Cleared!
+		PermamentIncrease: Permanently increases maximum life by {0}
+
+		Heart: {
+			1: Wood Heart
+			2: Boreal Wood Heart
+			3: Palm Wood Heart
+			4: Ebonwood Heart
+			5: Shadewood Heart
+			6: Rich Mahogany Heart
+			7: Pearlwood Heart
+			8: Dynasty Heart
+			9: Amber Heart
+			10: Sapphire Heart
+			11: Emerald Heart
+			12: Ruby Heart
+			13: Diamond Heart
+			14: Amethyst Heart
+			15: Topaz Heart
+			16: Dirt Heart
+			17: Stone Heart
+			18: Cactus Heart
+			19: Candy Cane Heart
+			20: Cloud Heart
+			21: Bubble Heart
+			22: Copper Heart
+			23: Coralstone Heart
+			24: Crimsand Heart
+			25: Crimstone Heart
+			26: Crimtane Heart
+			27: Demonite Heart
+			28: Ebonsand Heart
+			29: Ebonstone Heart
+			30: Fossil Heart
+			31: Glass Heart
+			32: Gold Heart
+			33: Granite Heart
+			34: Hay Heart
+			35: Hellstone Heart
+			36: Honey Heart
+			37: Ice Heart
+			38: Iron Heart
+			39: Lead Heart
+			40: Marble Heart
+			41: Meteorite Heart
+			42: Mushroom Heart
+			43: Obsidian Heart
+			44: Platinum Heart
+			45: Pumpkin Heart
+			46: Purple Ice Heart
+			47: Rain Cloud Heart
+			48: Red Ice Heart
+			49: Sand Heart
+			50: Silver Heart
+			51: Slime Heart
+			52: Snow Cloud Heart
+			53: Sunplate Heart
+			54: Tin Heart
+			55: Tungsten Heart
+			56: Adamantite Heart
+			57: Chlorophyte Heart
+			58: Cobalt Heart
+			59: Cog Heart
+			60: Crystal Heart
+			61: Cursed Flame Heart
+			62: Demon Heart MK2
+			63: Ectoplasm Heart
+			64: Flesh Heart
+			65: Heart of Discord
+			66: Ichor Heart
+			67: Lesion Heart
+			68: Luminite Heart
+			69: Mythril Heart
+			70: Orichalcum Heart
+			71: Palladium Heart
+			72: Pearlsand Heart
+			73: Pearlstone Heart
+			74: Pink Ice Heart
+			75: Rainbow Heart
+			76: Soul of Flight Heart
+			77: Soul of Fright Heart
+			78: Soul of Light Heart
+			79: Soul of Might Heart
+			80: Soul of Night Heart
+			81: Soul of Sight Heart
+			82: Spooky Heart
+			83: Titanium Heart
+			84: Zenith Heart
+			85: Enchanted Heart
+			86: Royal Slime Heart
+			87: Eye Heart
+			88: Worm Heart
+			89: Brain Heart
+			90: Larva of the Hives
+			91: Bone Heart
+			92: Menaicng Heart
+			93: Volatile Heart
+			94: Mechanical Heart
+			95: Bulb Heart
+			96: Soaring Heart
+			97: Lihzhardian Heart
+			98: Truffle Heart
+			99: Ancient Heart
+			100: Celestial Heart
+			101: Darl Heart
+			102: Gloomy Heart
+			103: Snot Heart
+			104: Snotty Heart
+			105: Betsy's Heart
+			106: Dutchman's Heart
+			107: Horseman's Heart
+			108: Mourning Heart
+			109: Razorpine Heart
+			110: Elf Heart
+			111: Blizzard Heart
+			112: Xeno Heart
+			113: Blue Fairy Floss Heart
+			114: Orange Ice Heart
+			115: Cookie Heart
+			116: Cream Heart
+			117: Creamsand Heart
+			118: Creamstone Heart
+			119: Creamwood Heart
+			120: Hallowed Heart
+			121: Neapolinite Heart
+			122: Pink Fairy Floss Heart
+			123: Purple Fairy Floss Heart
+			124: Saccharite Heart
+			125: Sherbet Heart
+			126: Dimensional Heart
+			127: Soul of Delight Heart
+			128: Soul of Spite Heart
+			129: Lune Heart
+			130: Rhuthinium Heart
+			131: Penguin Heart
+			132: Divine Heart
+			133: Ancient Heart
+			134: Doppleheart
+			135: Hydra Heart
+			136: Bladed Heart
+			137: Hyper Runestone Heart
+			138: Devouring Heart
+		}
+	}
+}

@@ -1,0 +1,19 @@
+Elemental Hearts is a mod which adds a ton of new consumable items which increase your health (Like life crystals). They are based on all of the basic elements, (blocks, ores, etc.).
+
+As with all of my mods, I prefer quality of quantity. This mod is a great addition to any modded playthrough, which adds a use for all of your leftover/extra blocks and ores.
+This mod spreads with progression, so that you can never become too powerful.
+
+Mod By:
+Vincent Jenei (Lite#4249)
+FoxXD_
+AppleInTheSky
+
+Changelog:
+1.0.2:
+	 Fixed loading error
+1.0.1:
+	 Added cross-mod hearts for Confection Rebaked!
+	 Fixed Soul of Fright Heart being Soul of Flight Heart
+	 Added Menacing Heart boss (no summon yet)
+1.0.0:
+	 Ported to 1.4!

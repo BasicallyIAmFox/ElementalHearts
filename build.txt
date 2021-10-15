@@ -1,0 +1,8 @@
+displayName = Elemental Hearts
+author = FoxXD_
+version = 1.0.2
+hideCode = true
+hideResources = true
+includeSource = false
+buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*
+includePDB = true
